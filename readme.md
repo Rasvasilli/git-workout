@@ -1,4 +1,4 @@
-# Welcome to our unit converter project
+# Unit converter
 
 This README provides an overview of the project.
 
